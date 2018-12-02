@@ -13,4 +13,4 @@ for printing any text
 example:
 ### ayvu-cli say hello -n shajir
 or
-### ayvu-cli say hello -name shajir
+### ayvu-cli say hello --name shajir
