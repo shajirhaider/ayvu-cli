@@ -14,7 +14,7 @@ var runCmd = &cobra.Command{
 	Short: "A brief description of your command",
 	Long:  `A longer description that spans multiple lines and likely contains examples`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("run called")
+		fmt.Println("running file")
 		// c := exec.Command("/home/shajir/go/src/ayvu-cli/hello.py")
 		c := exec.Command("python3.6", "pythonfile.py")
 		output, err := c.Output()
