@@ -24,3 +24,7 @@ or
 ```
 ayvu-cli say hello --name shajir
 ```
+for running a external python file run 
+``` 
+ayvu-cli run
+```
