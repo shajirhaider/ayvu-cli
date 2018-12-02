@@ -1,13 +1,13 @@
 # cli_with_go
-cli using cobra and go <br>
+CLI using Cobra and Go <br>
 prerequisite: GOLANG must be installed on the machine. 
-To run the cli just clone the project and run from your terminal
+To run the CLI just clone the project and run from your terminal
 ### go install
 
-then open the terminal from any directory  and type 
+then,open the terminal from any directory and type 
 ### ayvu-cli say hello
 
-for printing the text 
+for printing any text 
 ### ayvu-cli say hello -n [YOUR NAME or any text]
 
 example:
