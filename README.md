@@ -1,7 +1,9 @@
 # cli_with_go
 CLI using Cobra and Go <br>
-prerequisite: GOLANG must be installed on the machine. 
-To run the CLI just clone the project and run from your terminal
+prerequisite: GOLANG must be installed on the machine. <br>
+To run the CLI <br> 
+1. Clone the project. <br>
+2. Open the terminal from the project root directory and run  
 ### go install
 
 then,open the terminal from any directory and type 
